@@ -11,19 +11,7 @@
 
 
 
-**PROJECT STATUS**
-
-------------
-
-
-
-**LIBFT** [![rrotirot's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)
-
-------------
-
-
-**FT_PINTF** [![rrotirot's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42)
-
-
-------------
-
+|project| status     |
+|:--------------:|:-----------:|
+| **libft** | [![rrotirot's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2818145)](https://github.com/JaeSeoKim/badge42)    |
+| **ft_printf**      |  [![rrotirot's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/project/2842269)](https://github.com/JaeSeoKim/badge42) |
