@@ -5,7 +5,7 @@
 
 
 
-[![rrotirot's 42 stats](https://badge42.vercel.app/api/v2/cl9zxw99v00060fl93xy5f1mh/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
+[![rrotirot's 42 stats](https://badge.mediaplus.ma/binary/rrotirot?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 ------------
